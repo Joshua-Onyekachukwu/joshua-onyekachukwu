@@ -1,27 +1,85 @@
-# 💫 About Me:
-👋 Hi, I’m Joshua<br><br>I build production-grade software that solves real business problems , not experiments, not hype.<br><br>Right now, I’m building IBIAS, an AI growth analyst for the “missing middle” of e-commerce  and TAXwise, a tax intelligence system designed to simplify financial visibility and compliance for modern businesses. Both products are built around clarity: turning messy operational data into decisions founders can act on.<br><br>I care about systems that are practical, scalable, and revenue-aligned. If it doesn’t create leverage, it doesn’t ship.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/onyekachukwu-joshua/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@semekjoshua) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:onyekachukwujoshua39@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=joshua-onyekachukwu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=joshua-onyekachukwu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-onyekachukwu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=joshua-onyekachukwu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=joshua-onyekachukwu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# Joshua Onyekachukwu
+### Software Engineer | Founder | Systems Architect
 
 ---
-[![](https://visitcount.itsvg.in/api?id=joshua-onyekachukwu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I design and ship production-grade software that drives measurable business outcomes.  
+No prototypes disguised as products. No trend-chasing. Just systems that work.
+
+I am the founder and engineer behind IBIAS, a growth intelligence platform built for the “missing middle” of e-commerce, and TAXwise, a tax intelligence system focused on financial clarity and compliance for modern businesses. Both products are engineered around one principle: transform fragmented operational data into structured, revenue-aligned decisions.
+
+I operate at the intersection of engineering, product architecture, and business strategy. I build systems that scale, remain stable under pressure, and create real leverage.  
+If it does not create durable value, it does not ship.
+
+---
+
+## What I Do
+
+- Architect scalable full-stack systems from zero to production  
+- Design analytics engines that translate data into decisions  
+- Build financial and operational intelligence platforms  
+- Convert complex workflows into automated infrastructure  
+- Lead product from concept to revenue  
+
+---
+
+## Engineering Philosophy
+
+- Clarity over complexity  
+- Architecture before features  
+- Revenue alignment over vanity metrics  
+- Long-term scalability over shortcuts  
+- Systems thinking over surface-level solutions  
+
+---
+
+## Core Stack
+
+### Languages
+JavaScript • TypeScript • Python • PHP  
+
+### Frontend Systems
+React • Next.js • MUI • Three.js  
+
+### Backend & Infrastructure
+Node.js • PostgreSQL • Supabase • Firebase • AWS • Apache  
+
+### Data & Intelligence
+PyTorch • TensorFlow • scikit-learn • Pandas • NumPy • OpenCV  
+
+### Testing & Tooling
+Cypress • Jest • PowerShell  
+
+### Deployment
+Vercel • Netlify  
+
+---
+
+## Current Focus
+
+- Scaling intelligent decision systems  
+- Financial data normalization and reporting infrastructure  
+- High-trust software for compliance and operational visibility  
+- Building vertical SaaS products with durable competitive advantage  
+
+---
+
+## Connect
+
+LinkedIn: https://linkedin.com/in/onyekachukwu-joshua  
+Medium: https://medium.com/@semekjoshua  
+Email: onyekachukwujoshua39@gmail.com  
+
+---
+
+## GitHub Activity
+
+![](https://github-readme-stats.vercel.app/api?username=joshua-onyekachukwu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=joshua-onyekachukwu&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-onyekachukwu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
