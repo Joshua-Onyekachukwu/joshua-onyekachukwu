@@ -2,31 +2,34 @@
 <h3 align="center">Founder • Software Engineer • Systems Architect</h3>
 
 <p align="center">
-  <i>Building intelligent systems that turn operational complexity into strategic clarity.</i>
+  <i>Designing revenue-aligned infrastructure for modern businesses.</i>
 </p>
+
+<br/>
 
 ---
 
 ## Who I Am
 
-I build production-grade software designed to create leverage.
+I build production-grade software that creates measurable leverage.
 
-I am the founder and engineer behind <b>IBIAS</b>, a growth intelligence platform for the missing middle of e-commerce, and <b>TAXwise</b>, a tax intelligence system built to simplify financial visibility and compliance for modern businesses.
+Founder and engineer behind <b>IBIAS</b>, a growth intelligence platform serving the missing middle of e-commerce, and <b>TAXwise</b>, a financial intelligence system focused on clarity, compliance, and operational visibility.
 
-Both products are engineered around one principle: transform fragmented data into structured, revenue-aligned decisions founders can act on with confidence.
+Both products are architected around one principle:  
+<strong>structure complexity into confident decision-making.</strong>
 
-I operate where engineering depth meets business strategy.  
+I operate at the intersection of deep engineering and business strategy.  
 If it does not create durable value, it does not ship.
 
 ---
 
 ## What I Build
 
-- Scalable full-stack systems from zero to production  
-- Decision engines powered by structured analytics  
-- Financial and operational intelligence infrastructure  
-- Automation frameworks that reduce cognitive load  
-- Category-defining vertical SaaS platforms  
+• Scalable full-stack systems from zero to production  
+• Structured decision engines powered by analytics  
+• Financial and operational intelligence infrastructure  
+• Automation frameworks that reduce cognitive load  
+• Vertical SaaS platforms designed for long-term defensibility  
 
 ---
 
@@ -35,37 +38,43 @@ If it does not create durable value, it does not ship.
 Clarity over complexity  
 Architecture before features  
 Revenue alignment over vanity metrics  
-Long-term scalability over shortcuts  
+Durability over shortcuts  
 Systems thinking over surface-level fixes  
 
 ---
 
-## Core Stack
+## Core Systems
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,postgres,supabase,firebase,aws,vercel,docker,git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,react,nextjs,nodejs,postgres,supabase,aws" />
 </p>
 
-### Data & Intelligence
-PyTorch • TensorFlow • scikit-learn • Pandas • NumPy • OpenCV  
+<p align="center">
+  <sub>
+    TypeScript • Python • React • Next.js • Node.js • PostgreSQL • Supabase • AWS
+  </sub>
+</p>
 
-### Testing & Tooling
-Cypress • Jest • PowerShell  
+---
+
+## Data & Intelligence
+
+PyTorch • TensorFlow • scikit-learn • Pandas • NumPy • OpenCV  
 
 ---
 
 ## Current Focus
 
-• Scaling intelligent financial infrastructure  
-• Building AI-native decision systems  
-• Designing high-trust compliance software  
-• Architecting durable SaaS businesses  
+Scaling intelligent financial infrastructure  
+Building decision-native software  
+Designing high-trust compliance systems  
+Architecting durable SaaS businesses  
 
 ---
 
 ## Connect
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/onyekachukwu-joshua" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -73,7 +82,7 @@ Cypress • Jest • PowerShell
   <img src="https://img.shields.io/badge/Medium-Writings-black?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 <a href="mailto:onyekachukwujoshua39@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Direct Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Direct-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
@@ -93,5 +102,5 @@ Cypress • Jest • PowerShell
 ---
 
 <p align="center">
-  <i>Software is infrastructure. Infrastructure creates leverage. Leverage compounds.</i>
+  <i>Software is infrastructure. Infrastructure compounds.</i>
 </p>
