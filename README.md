@@ -2,7 +2,9 @@
 <h3 align="center">Founder • Software Engineer • Systems Architect</h3>
 
 <p align="center">
-  <i>Designing revenue-aligned infrastructure for modern businesses.</i>
+  <i>
+  Architecting resilient, revenue-generating systems at the intersection of software engineering, financial infrastructure, and long-term business durability.
+  </i>
 </p>
 
 <br/>
@@ -11,35 +13,42 @@
 
 ## Who I Am
 
-I build production-grade software that creates measurable leverage.
+I build production-grade systems designed to hold under scale, complexity, and real-world operational pressure. My work centers on transforming fragmented workflows into structured, defensible infrastructure that compounds over time.
 
-Founder and engineer behind <b>IBIAS</b>, a growth intelligence platform serving the missing middle of e-commerce, and <b>TAXwise</b>, a financial intelligence system focused on clarity, compliance, and operational visibility.
-
-Both products are architected around one principle:  
-<strong>structure complexity into confident decision-making.</strong>
-
-I operate at the intersection of deep engineering and business strategy.  
-If it does not create durable value, it does not ship.
+As founder and engineer behind <b>IBIAS</b> and <b>TAXwise</b>, I design platforms that convert messy operational and financial data into clear strategic visibility. I operate where deep technical architecture meets business leverage — engineering not just for functionality, but for durability, trust, and sustained advantage.
 
 ---
 
 ## What I Build
 
-• Scalable full-stack systems from zero to production  
-• Structured decision engines powered by analytics  
-• Financial and operational intelligence infrastructure  
-• Automation frameworks that reduce cognitive load  
-• Vertical SaaS platforms designed for long-term defensibility  
+🔹 Scalable full-stack systems from zero to production  
+🔹 Decision engines grounded in structured analytics  
+🔹 Financial and operational intelligence infrastructure  
+🔹 Automation frameworks that reduce cognitive load  
+🔹 Vertical SaaS platforms engineered for defensibility  
 
 ---
 
 ## Engineering Principles
 
-Clarity over complexity  
-Architecture before features  
-Revenue alignment over vanity metrics  
-Durability over shortcuts  
-Systems thinking over surface-level fixes  
+<div>
+
+⚙️ **Architecture First**  
+Systems are designed for longevity before features are layered on top.
+
+📊 **Revenue Alignment**  
+Software must connect to measurable business impact.
+
+🧱 **Durability Over Speed**  
+Shortcuts accumulate debt. Structure compounds value.
+
+🧠 **Systems Thinking**  
+Problems are rarely isolated. I design at the ecosystem level.
+
+🔍 **Clarity Over Complexity**  
+Elegant systems outperform impressive ones.
+
+</div>
 
 ---
 
@@ -59,16 +68,31 @@ Systems thinking over surface-level fixes
 
 ## Data & Intelligence
 
-PyTorch • TensorFlow • scikit-learn • Pandas • NumPy • OpenCV  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<p align="center">
+  <sub>
+    PyTorch • TensorFlow • scikit-learn • Pandas • NumPy • OpenCV
+  </sub>
+</p>
 
 ---
 
 ## Current Focus
 
-Scaling intelligent financial infrastructure  
-Building decision-native software  
-Designing high-trust compliance systems  
-Architecting durable SaaS businesses  
+<div>
+
+📈 Designing decision-native financial infrastructure  
+
+🛡 Engineering high-trust compliance systems  
+
+🧩 Building vertically integrated SaaS platforms  
+
+🏗 Scaling architecture for long-term operational resilience  
+
+</div>
 
 ---
 
@@ -91,16 +115,20 @@ Architecting durable SaaS businesses
 ## Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshua-onyekachukwu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshua-onyekachukwu&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joshua-onyekachukwu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshua-onyekachukwu&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-onyekachukwu&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshua-onyekachukwu&theme=tokyonight" />
+</p>
+
 ---
 
 <p align="center">
-  <i>Software is infrastructure. Infrastructure compounds.</i>
+  <i>Software is infrastructure. Infrastructure compounds. Discipline sustains it.</i>
 </p>
