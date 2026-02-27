@@ -15,7 +15,7 @@
 
 I build production-grade systems designed to hold under scale, complexity, and real-world operational pressure. My work centers on transforming fragmented workflows into structured, defensible infrastructure that compounds over time.
 
-As founder and engineer behind <b>IBIAS</b> and <b>TAXwise</b>, I design platforms that convert messy operational and financial data into clear strategic visibility. I operate where deep technical architecture meets business leverage — engineering not just for functionality, but for durability, trust, and sustained advantage.
+As founder and engineer behind <b>IBIAS</b> and <b>TAXwise</b>, I design platforms that convert messy operational and financial data into clear strategic visibility. I operate where deep technical architecture meets business leverage, engineering not just for functionality, but for durability, trust, and sustained advantage.
 
 ---
 
