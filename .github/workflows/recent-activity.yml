@@ -1,0 +1,23 @@
+name: Recent Activity
+
+on:
+  schedule:
+    # Every 6 hours on the hour (UTC)
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # also allows a manual "Run workflow" from the Actions tab
+
+permissions:
+  contents: write # needed so the action can commit the README update back
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: Refresh recent activity in profile README
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README with recent activity
+        uses: Readme-Workflows/recent-activity@v2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
