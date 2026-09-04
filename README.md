@@ -178,20 +178,20 @@ All built on **WordPress + Elementor** for SMBs and startups.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed undefined commit(s) to [Joshua-Onyekachukwu/oddly](https://github.com/Joshua-Onyekachukwu/oddly)<br>
+1. Pushed undefined commit(s) to [Joshua-Onyekachukwu/NEOP](https://github.com/Joshua-Onyekachukwu/NEOP)<br>
 2. Pushed undefined commit(s) to [Joshua-Onyekachukwu/NEOP](https://github.com/Joshua-Onyekachukwu/NEOP)<br>
 3. Pushed undefined commit(s) to [Joshua-Onyekachukwu/NEOP](https://github.com/Joshua-Onyekachukwu/NEOP)<br>
 4. Pushed undefined commit(s) to [Joshua-Onyekachukwu/NEOP](https://github.com/Joshua-Onyekachukwu/NEOP)<br>
 5. Pushed undefined commit(s) to [Joshua-Onyekachukwu/NEOP](https://github.com/Joshua-Onyekachukwu/NEOP)<br>
 6. Pushed undefined commit(s) to [Joshua-Onyekachukwu/NEOP](https://github.com/Joshua-Onyekachukwu/NEOP)<br>
-7. Pushed undefined commit(s) to [Joshua-Onyekachukwu/orq8](https://github.com/Joshua-Onyekachukwu/orq8)<br>
+7. Pushed undefined commit(s) to [Joshua-Onyekachukwu/NEOP](https://github.com/Joshua-Onyekachukwu/NEOP)<br>
 8. Pushed undefined commit(s) to [Joshua-Onyekachukwu/NEOP](https://github.com/Joshua-Onyekachukwu/NEOP)<br>
-9. Pushed undefined commit(s) to [Joshua-Onyekachukwu/orq8](https://github.com/Joshua-Onyekachukwu/orq8)<br>
+9. Pushed undefined commit(s) to [Joshua-Onyekachukwu/oddly](https://github.com/Joshua-Onyekachukwu/oddly)<br>
 10. Pushed undefined commit(s) to [Joshua-Onyekachukwu/NEOP](https://github.com/Joshua-Onyekachukwu/NEOP)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Thursday, September 3rd, 2026, 9:42:20 PM
+Last updated: Friday, September 4th, 2026, 4:36:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
